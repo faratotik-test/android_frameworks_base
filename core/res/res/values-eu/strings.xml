@@ -12,7 +12,7 @@
 **
 ** Unless required by applicable law or agreed to in writing, software
 ** distributed under the License is distributed on an "AS IS" BASIS,
-** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ** See the License for the specific language governing permissions and
 ** limitations under the License.
 */
@@ -1241,7 +1241,7 @@
     <string name="date_picker_dialog_title" msgid="5879450659453782278">"Ezarri data"</string>
     <string name="date_time_set" msgid="5777075614321087758">"Ezarri"</string>
     <string name="date_time_done" msgid="2507683751759308828">"Eginda"</string>
-    <string name="perms_new_perm_prefix" msgid="8257740710754301407"><font size="12" fgcolor="#ff33b5e5">"BERRIA: "</font></string>
+    <string name="perms_new_perm_prefix" msgid="8257740710754301407"><font size="12" fgcolor="#ff33b5e5">"BEAliceIA: "</font></string>
     <string name="perms_description_app" msgid="5139836143293299417">"Hornitzailea: <xliff:g id="APP_NAME">%1$s</xliff:g>."</string>
     <string name="no_permissions" msgid="7283357728219338112">"Ez da baimenik behar"</string>
     <string name="perm_costs_money" msgid="4902470324142151116">"dirua kosta dakizuke"</string>

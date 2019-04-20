@@ -11,7 +11,7 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
@@ -403,8 +403,8 @@
     <string name="keyguard_indication_charging_time_fast" msgid="7767562163577492332">"<xliff:g id="PERCENTAGE">%2$s</xliff:g> • ਤੇਜ਼ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ (<xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g> ਵਿੱਚ ਮੁਕੰਮਲ)"</string>
     <string name="keyguard_indication_charging_time_slowly" msgid="3769655133567307069">"<xliff:g id="PERCENTAGE">%2$s</xliff:g> • ਹੌਲੀ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ (<xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g> ਵਿੱਚ ਮੁਕੰਮਲ)"</string>
     <string name="accessibility_multi_user_switch_switcher" msgid="7305948938141024937">"ਵਰਤੋਂਕਾਰ ਸਵਿੱਚ ਕਰੋ"</string>
-    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"ਵਰਤੋਂਕਾਰ, ਵਰਤਮਾਨ ਵਰਤੋਂਕਾਰ ਸਵਿੱਚ ਕਰੋ <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>"</string>
-    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"ਮੌਜੂਦਾ ਉਪਭੋਗਤਾ <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>"</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"ਵਰਤੋਂਕਾਰ, ਵਰਤਮਾਨ ਵਰਤੋਂਕਾਰ ਸਵਿੱਚ ਕਰੋ <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>"</string>
+    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"ਮੌਜੂਦਾ ਉਪਭੋਗਤਾ <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>"</string>
     <string name="accessibility_multi_user_switch_quick_contact" msgid="3020367729287990475">"ਪ੍ਰੋਫਾਈਲ ਦਿਖਾਓ"</string>
     <string name="user_add_user" msgid="5110251524486079492">"ਵਰਤੋਂਕਾਰ ਸ਼ਾਮਲ ਕਰੋ"</string>
     <string name="user_new_user_name" msgid="426540612051178753">"ਨਵਾਂ ਵਰਤੋਂਕਾਰ"</string>
@@ -836,7 +836,7 @@
     <string name="running_foreground_services_title" msgid="381024150898615683">"ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲ ਰਹੀਆਂ ਐਪਾਂ"</string>
     <string name="running_foreground_services_msg" msgid="6326247670075574355">"ਬੈਟਰੀ ਅਤੇ ਡਾਟਾ ਵਰਤੋਂ ਸਬੰਧੀ ਵੇਰਵਿਆਂ ਲਈ ਟੈਪ ਕਰੋ"</string>
     <string name="mobile_data_disable_title" msgid="1068272097382942231">"ਕੀ ਮੋਬਾਈਲ ਡਾਟਾ ਬੰਦ ਕਰਨਾ ਹੈ?"</string>
-    <string name="mobile_data_disable_message" msgid="4756541658791493506">"ਤੁਸੀਂ <xliff:g id="CARRIER">%s</xliff:g> ਰਾਹੀਂ ਡਾਟੇ ਜਾਂ ਇੰਟਰਨੈੱਟ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਇੰਟਰਨੈੱਟ ਸਿਰਫ਼ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਉਪਲਬਧ ਹੋਵੇਗਾ।"</string>
+    <string name="mobile_data_disable_message" msgid="4756541658791493506">"ਤੁਸੀਂ <xliff:g id="CAAliceIER">%s</xliff:g> ਰਾਹੀਂ ਡਾਟੇ ਜਾਂ ਇੰਟਰਨੈੱਟ ਤੱਕ ਪਹੁੰਚ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਇੰਟਰਨੈੱਟ ਸਿਰਫ਼ ਵਾਈ-ਫਾਈ ਰਾਹੀਂ ਉਪਲਬਧ ਹੋਵੇਗਾ।"</string>
     <string name="mobile_data_disable_message_default_carrier" msgid="6078110473451946831">"ਤੁਹਾਡਾ ਕੈਰੀਅਰ"</string>
     <string name="touch_filtered_warning" msgid="8671693809204767551">"ਕਿਸੇ ਐਪ ਵੱਲੋਂ ਇਜਾਜ਼ਤ ਬੇਨਤੀ ਨੂੰ ਢਕੇ ਜਾਣ ਕਾਰਨ ਸੈਟਿੰਗਾਂ ਤੁਹਾਡੇ ਜਵਾਬ ਦੀ ਪੁਸ਼ਟੀ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ।"</string>
     <string name="slice_permission_title" msgid="7465009437851044444">"ਕੀ <xliff:g id="APP_0">%1$s</xliff:g> ਨੂੰ <xliff:g id="APP_2">%2$s</xliff:g> ਦੇ ਹਿੱਸੇ ਦਿਖਾਉਣ ਦੇਣੇ ਹਨ?"</string>

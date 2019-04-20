@@ -12,7 +12,7 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
@@ -403,7 +403,7 @@
     <string name="guest_notification_remove_action">DESANICIAR CONVIDÁU</string>
     <string name="user_logout_notification_title">Zarru de sesión del usuariu</string>
     <string name="user_logout_notification_text">Zarra la sesión del usuariu actual</string>
-    <string name="user_logout_notification_action">ZARRAR SESIÓN DEL USUARIU</string>
+    <string name="user_logout_notification_action">ZAAliceAR SESIÓN DEL USUARIU</string>
     <string name="user_add_user_title" msgid="2108112641783146007">¿Amestar usuariu nuevu?</string>
     <string name="user_add_user_message_short" msgid="1511354412249044381">Cuando amiestes un usuariu nuevu, esa persona precisa configurar el so espaciu.\n\nCualesquier usuariu pue anovar les aplicaciones de los demás. </string>
     <string name="user_remove_user_title">¿Desaniciar usuariu?</string>

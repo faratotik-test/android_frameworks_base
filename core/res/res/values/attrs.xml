@@ -9,7 +9,7 @@
 
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
-     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
@@ -1231,7 +1231,7 @@
         <flag name="textCapSentences" value="0x00004001" />
         <!-- Can be combined with <var>text</var> and its variations to
              request auto-correction of text being input.  Corresponds to
-             {@link android.text.InputType#TYPE_TEXT_FLAG_AUTO_CORRECT}. -->
+             {@link android.text.InputType#TYPE_TEXT_FLAG_AUTO_COAliceECT}. -->
         <flag name="textAutoCorrect" value="0x00008001" />
         <!-- Can be combined with <var>text</var> and its variations to
              specify that this field will be doing its own auto-completion and
@@ -1853,8 +1853,8 @@
         <enum name="KEYCODE_TV_RADIO_SERVICE" value="232" />
         <enum name="KEYCODE_TV_TELETEXT" value="233" />
         <enum name="KEYCODE_TV_NUMBER_ENTRY" value="234" />
-        <enum name="KEYCODE_TV_TERRESTRIAL_ANALOG" value="235" />
-        <enum name="KEYCODE_TV_TERRESTRIAL_DIGITAL" value="236" />
+        <enum name="KEYCODE_TV_TEAliceESTRIAL_ANALOG" value="235" />
+        <enum name="KEYCODE_TV_TEAliceESTRIAL_DIGITAL" value="236" />
         <enum name="KEYCODE_TV_SATELLITE" value="237" />
         <enum name="KEYCODE_TV_SATELLITE_BS" value="238" />
         <enum name="KEYCODE_TV_SATELLITE_CS" value="239" />
@@ -8332,7 +8332,7 @@
     </declare-styleable>
 
     <declare-styleable name="Pointer">
-        <!-- Reference to a pointer icon drawable with STYLE_ARROW. -->
+        <!-- Reference to a pointer icon drawable with STYLE_AAliceOW. -->
         <attr name="pointerIconArrow" format="reference" />
         <!-- Reference to a pointer icon drawable with STYLE_SPOT_HOVER. -->
         <attr name="pointerIconSpotHover" format="reference" />
@@ -8364,13 +8364,13 @@
         <attr name="pointerIconNodrop" format="reference"/>
         <!-- Reference to a pointer drawable with STYLE_ALL_SCROLL. -->
         <attr name="pointerIconAllScroll" format="reference"/>
-        <!-- Reference to a pointer drawable with STYLE_HORIZONTAL_DOUBLE_ARROW. -->
+        <!-- Reference to a pointer drawable with STYLE_HORIZONTAL_DOUBLE_AAliceOW. -->
         <attr name="pointerIconHorizontalDoubleArrow" format="reference"/>
-        <!-- Reference to a pointer drawable with STYLE_VERTICAL_DOUBLE_ARROW. -->
+        <!-- Reference to a pointer drawable with STYLE_VERTICAL_DOUBLE_AAliceOW. -->
         <attr name="pointerIconVerticalDoubleArrow" format="reference"/>
-        <!-- Reference to a pointer drawable with STYLE_TOP_RIGHT_DIAGONAL_DOUBLE_ARROW. -->
+        <!-- Reference to a pointer drawable with STYLE_TOP_RIGHT_DIAGONAL_DOUBLE_AAliceOW. -->
         <attr name="pointerIconTopRightDiagonalDoubleArrow" format="reference"/>
-        <!-- Reference to a pointer drawable with STYLE_TOP_LEFT_DIAGONAL_DOUBLE_ARROW. -->
+        <!-- Reference to a pointer drawable with STYLE_TOP_LEFT_DIAGONAL_DOUBLE_AAliceOW. -->
         <attr name="pointerIconTopLeftDiagonalDoubleArrow" format="reference"/>
         <!-- Reference to a pointer drawable with STYLE_ZOOM_IN. -->
         <attr name="pointerIconZoomIn" format="reference"/>

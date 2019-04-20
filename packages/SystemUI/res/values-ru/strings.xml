@@ -11,7 +11,7 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
@@ -409,8 +409,8 @@
     <string name="keyguard_indication_charging_time_fast" msgid="7767562163577492332">"Идет быстрая зарядка (<xliff:g id="PERCENTAGE">%2$s</xliff:g>, ещё <xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g>)"</string>
     <string name="keyguard_indication_charging_time_slowly" msgid="3769655133567307069">"Идет медленная зарядка (<xliff:g id="PERCENTAGE">%2$s</xliff:g>, ещё <xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g>)"</string>
     <string name="accessibility_multi_user_switch_switcher" msgid="7305948938141024937">"Сменить пользователя."</string>
-    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"Сменить аккаунт. Вход выполнен под именем <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>."</string>
-    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"Выбран аккаунт пользователя <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>"</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"Сменить аккаунт. Вход выполнен под именем <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>."</string>
+    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"Выбран аккаунт пользователя <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>"</string>
     <string name="accessibility_multi_user_switch_quick_contact" msgid="3020367729287990475">"Показать профиль."</string>
     <string name="user_add_user" msgid="5110251524486079492">"Добавить пользователя"</string>
     <string name="user_new_user_name" msgid="426540612051178753">"Новый пользователь"</string>
@@ -846,7 +846,7 @@
     <string name="running_foreground_services_title" msgid="381024150898615683">"Приложения, работающие в фоновом режиме"</string>
     <string name="running_foreground_services_msg" msgid="6326247670075574355">"Нажмите, чтобы проверить энергопотребление и трафик"</string>
     <string name="mobile_data_disable_title" msgid="1068272097382942231">"Отключить мобильный Интернет?"</string>
-    <string name="mobile_data_disable_message" msgid="4756541658791493506">"У вас не будет доступа к данным и Интернету через оператора \"<xliff:g id="CARRIER">%s</xliff:g>\". Вы сможете установить интернет-соединение только по сети Wi-Fi."</string>
+    <string name="mobile_data_disable_message" msgid="4756541658791493506">"У вас не будет доступа к данным и Интернету через оператора \"<xliff:g id="CAAliceIER">%s</xliff:g>\". Вы сможете установить интернет-соединение только по сети Wi-Fi."</string>
     <string name="mobile_data_disable_message_default_carrier" msgid="6078110473451946831">"ваш оператор"</string>
     <string name="touch_filtered_warning" msgid="8671693809204767551">"Невозможно принять ваше согласие, поскольку запрос скрыт другим приложением."</string>
     <string name="slice_permission_title" msgid="7465009437851044444">"Разрешить приложению \"<xliff:g id="APP_0">%1$s</xliff:g>\" показывать фрагменты приложения \"<xliff:g id="APP_2">%2$s</xliff:g>\"?"</string>

@@ -11,7 +11,7 @@
  *
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
@@ -406,8 +406,8 @@
     <string name="keyguard_indication_charging_time_fast" msgid="7767562163577492332">"<xliff:g id="PERCENTAGE">%2$s</xliff:g> • Se încarcă rapid (<xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g> până la finalizare)"</string>
     <string name="keyguard_indication_charging_time_slowly" msgid="3769655133567307069">"<xliff:g id="PERCENTAGE">%2$s</xliff:g> • Se încarcă lent (<xliff:g id="CHARGING_TIME_LEFT">%s</xliff:g> până la finalizare)"</string>
     <string name="accessibility_multi_user_switch_switcher" msgid="7305948938141024937">"Comutați între utilizatori"</string>
-    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"Schimbați utilizatorul (utilizator actual <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>)"</string>
-    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"Utilizator actual <xliff:g id="CURRENT_USER_NAME">%s</xliff:g>"</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current" msgid="8434880595284601601">"Schimbați utilizatorul (utilizator actual <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>)"</string>
+    <string name="accessibility_multi_user_switch_inactive" msgid="1424081831468083402">"Utilizator actual <xliff:g id="CUAliceENT_USER_NAME">%s</xliff:g>"</string>
     <string name="accessibility_multi_user_switch_quick_contact" msgid="3020367729287990475">"Afișați profilul"</string>
     <string name="user_add_user" msgid="5110251524486079492">"Adăugați un utilizator"</string>
     <string name="user_new_user_name" msgid="426540612051178753">"Utilizator nou"</string>
@@ -841,7 +841,7 @@
     <string name="running_foreground_services_title" msgid="381024150898615683">"Aplicațiile rulează în fundal"</string>
     <string name="running_foreground_services_msg" msgid="6326247670075574355">"Atingeți pentru mai multe detalii privind bateria și utilizarea datelor"</string>
     <string name="mobile_data_disable_title" msgid="1068272097382942231">"Dezactivați datele mobile?"</string>
-    <string name="mobile_data_disable_message" msgid="4756541658791493506">"Nu veți avea acces la date sau la internet prin intermediul <xliff:g id="CARRIER">%s</xliff:g>. Internetul va fi disponibil numai prin Wi-Fi."</string>
+    <string name="mobile_data_disable_message" msgid="4756541658791493506">"Nu veți avea acces la date sau la internet prin intermediul <xliff:g id="CAAliceIER">%s</xliff:g>. Internetul va fi disponibil numai prin Wi-Fi."</string>
     <string name="mobile_data_disable_message_default_carrier" msgid="6078110473451946831">"operatorul dvs."</string>
     <string name="touch_filtered_warning" msgid="8671693809204767551">"Deoarece o aplicație acoperă o solicitare de permisiune, Setările nu vă pot verifica răspunsul."</string>
     <string name="slice_permission_title" msgid="7465009437851044444">"Permiteți <xliff:g id="APP_0">%1$s</xliff:g> să afișeze porțiuni din <xliff:g id="APP_2">%2$s</xliff:g>?"</string>

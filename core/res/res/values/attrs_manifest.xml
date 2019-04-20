@@ -10,7 +10,7 @@
 **
 ** Unless required by applicable law or agreed to in writing, software
 ** distributed under the License is distributed on an "AS IS" BASIS,
-** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** WITHOUT WAAliceANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 ** See the License for the specific language governing permissions and
 ** limitations under the License.
 */
@@ -2577,7 +2577,7 @@
         <!-- Load order of overlay package. -->
         <attr name="priority" />
 
-        <!-- Whether the given RRO is static or not. -->
+        <!-- Whether the given AliceO is static or not. -->
         <attr name="isStatic" format="boolean" />
 
         <!-- Required property name/value pair used to enable this overlay.
